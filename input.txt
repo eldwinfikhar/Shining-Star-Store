@@ -1,0 +1,55 @@
+// LOGIN PASSWORD
+sh1n3
+
+// DATA BARANG
+Chitato F&B 589
+Penghapus ATK 269
+Indomie F&B 450
+Betadine Med 890
+SpidolBoard ATK 230
+Pensil ATK 458
+Penggaris ATK 359
+KertasHVS ATK 590
+Staples ATK 287
+SilverQueen F&B 543
+Bodrex Med 356
+Paramex Med 421
+Kinderjoy F&B 345
+Oreo F&B 521
+Sarimi F&B 511
+Fullo F&B 341
+Relaxa F&B 263
+Beng-Beng F&B 543
+KertasManila ATK 654
+RautanPensil ATK 493
+CorrectionTape ATK 389
+Stabilo ATK 466
+SpidolPermanen ATK 387
+StopmapPlastik ATK 312
+BoxFile ATK 238
+Gunting ATK 200
+Stapler ATK 239
+Selotip ATK 311
+LemUhu ATK 291
+Telon Med 169
+
+// TRANSAKSI MASUK
+1201001 Andi Sprite F&B 250
+3405001 Evan Pensil ATK 315
+3403002 Doni BoxFile ATK 210
+5604002 Faras Panadol Med 145
+1207002 Haris Lays F&B 235
+3402003 Naufal Stabilo ATK 175
+3404004 Haris Penghapus ATK 225
+5603001 Andi Biogesic Med 125
+3404005 Santi Selotip ATK 149
+3406006 Yudho Staples ATK 220
+
+// TRANSAKSI KELUAR
+2102001 Budi Aqua F&B 110
+-
+4303001 Angga LemUhu ATK 250
+-
+4307002 Tania CorrectionTape ATK 315
+-
+6504002 Budi Telon Med 100
